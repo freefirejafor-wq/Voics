@@ -1,0 +1,6 @@
+{
+  "summary":  "Detailed implementation plan for KobiVoice Studio (কণ্ঠ স্টুডিও), a bilingual (Bengali & English) AI Voice Cloning, Text-to-Speech, and Acoustic Voice-to-Voice Studio Android application using Firebase AI Logic (free tier Gemini 3.8 Flash & Gemini TTS), on-device acoustic vocal DNA extraction (pitch/F0, timbre, formant, and cadence matching), Android TTS synthesis to WAV, and local Room persistence.",
+  "updatedAt":  "2026-10-29T13:31:28.935227776Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

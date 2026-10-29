@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KobiVoice Studio</string>
+    <string name="app_subtitle_bn">হাই-কোয়ালিটি এআই ভয়েস ক্লোনিং ও টেক্সট-টু-ভয়েস স্টুডিও</string>
+    <string name="app_subtitle_en">High-Quality AI Voice Cloning &amp; Text-to-Voice Studio</string>
+    <string name="tab_tts_bn">টেক্সট টু ভয়েস</string>
+    <string name="tab_tts_en">Text to Voice</string>
+    <string name="tab_clone_bn">ভয়েস ক্লোন</string>
+    <string name="tab_clone_en">Voice Clone</string>
+    <string name="tab_changer_bn">ভয়েস চেঞ্জার</string>
+    <string name="tab_changer_en">Voice Changer</string>
+    <string name="tab_library_bn">অডিও গ্যালারি</string>
+    <string name="tab_library_en">Audio Library</string>
+    <string name="cd_language_toggle">Toggle Language between Bengali and English</string>
+    <string name="cd_play_pause">Play or Pause Audio</string>
+    <string name="cd_share_audio">Share Audio File</string>
+    <string name="cd_download_audio">Save Audio to Device Downloads</string>
+    <string name="cd_record_voice">Record Voice Sample</string>
+    <string name="cd_upload_audio">Upload MP3 or Audio File</string>
+</resources>
